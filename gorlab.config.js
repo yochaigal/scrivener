@@ -8,7 +8,7 @@
 export default {
   // ── Identity ──────────────────────────────────────────────────────────────
   // Required. The catalog title shown in the header and browser tab.
-  title: "My Catalog",
+  title: "Scrivener",
 
   // description: shown in the header subtitle and page meta tags.
   // description: "",
