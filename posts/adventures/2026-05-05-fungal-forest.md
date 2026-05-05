@@ -9,5 +9,4 @@ summary: A short adventure for Cairn
 cost: free
 cover-image: https://img.itch.zone/aW1nLzg2MjQ1NzAucG5n/original/PjCOq5.png
 tags:
-  - originals
 ---

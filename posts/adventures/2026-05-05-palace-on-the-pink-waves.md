@@ -9,5 +9,4 @@ summary: A whimsical nautical drunken adventure for the Cairn system.
 cost: free
 cover-image: https://img.itch.zone/aW1nLzg5MzkwOTMucG5n/original/4%2FtM3x.png
 tags:
-  - originals
 ---

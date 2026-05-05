@@ -9,5 +9,4 @@ summary: Snowy pointcrawl exploration adventure for Cairn
 cost: free
 cover-image: https://img.itch.zone/aW1nLzg1MTk1MDgucG5n/original/bVyN%2BC.png
 tags:
-  - originals
 ---

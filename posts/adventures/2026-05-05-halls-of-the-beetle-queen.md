@@ -9,5 +9,4 @@ summary: Thirty-six hexes literally crawling with insects!
 cost: free
 cover-image: https://img.itch.zone/aW1nLzE1NzcwNzcwLnBuZw==/original/%2BSqiP9.png
 tags:
-  - originals
 ---

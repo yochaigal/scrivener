@@ -9,5 +9,4 @@ summary: An OSR module to play with your mates when camping
 cost: free
 cover-image: https://img.itch.zone/aW1nLzE2NDQzNjAxLnBuZw==/original/9e%2Bjay.png
 tags:
-  - originals
 ---

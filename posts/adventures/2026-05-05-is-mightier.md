@@ -9,5 +9,4 @@ summary: An HTML adventure for Cairn about a great mapmaker and a malevolent qui
 cost: free
 cover-image: https://img.itch.zone/aW1nLzczMjQ3NDkucG5n/original/0xLoYP.png
 tags:
-  - originals
 ---

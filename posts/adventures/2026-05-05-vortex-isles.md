@@ -9,5 +9,4 @@ summary: Seek the lost treasure of Captain Lolligo in a dangerous ever-spiraling
 cost: $6
 cover-image: https://img.itch.zone/aW1nLzgzNDc5ODUucG5n/original/q15NSQ.png
 tags:
-  - originals
 ---

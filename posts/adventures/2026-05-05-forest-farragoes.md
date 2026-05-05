@@ -9,5 +9,4 @@ summary: A Half-Dozen Random Tables for the Cairn Forest Jam
 cost: free
 cover-image: https://img.itch.zone/aW1nLzg1MTY2OTcuanBn/original/oqLX62.jpg
 tags:
-  - originals
 ---

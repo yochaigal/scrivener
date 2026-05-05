@@ -9,5 +9,4 @@ summary: A system agnostic die drop forest point crawl.
 cost: $5
 cover-image: https://img.itch.zone/aW1nLzg2NTQ3NDkucG5n/original/JRoGN7.png
 tags:
-  - originals
 ---

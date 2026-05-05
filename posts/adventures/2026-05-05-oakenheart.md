@@ -9,5 +9,4 @@ summary: A small forest dungeon for the Cairn RPG.
 cost: free
 cover-image: https://img.itch.zone/aW1nLzg0NzU3MjQuanBn/original/GOxMv5.jpg
 tags:
-  - originals
 ---

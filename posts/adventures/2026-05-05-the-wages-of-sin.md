@@ -9,5 +9,4 @@ summary: An adventure seed in a distant village
 cost: free
 cover-image: https://img.itch.zone/aW1nLzkyNjA2ODUucG5n/original/jhQDtY.png
 tags:
-  - originals
 ---

@@ -8,5 +8,4 @@ source-url: https://seanfsmith.itch.io/sgii
 cost: $2.95
 cover-image: https://img.itch.zone/aW1nLzU2NDI1NTguanBn/original/uaJyXm.jpg
 tags:
-  - originals
 ---

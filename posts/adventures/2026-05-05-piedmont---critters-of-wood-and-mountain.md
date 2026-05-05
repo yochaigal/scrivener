@@ -9,5 +9,4 @@ summary: A weird Appalachian bestiary for Cairn.
 cost: free
 cover-image: https://img.itch.zone/aW1nLzg1MTU1NDcuanBn/original/l%2FsP1I.jpg
 tags:
-  - originals
 ---

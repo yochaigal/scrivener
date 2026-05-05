@@ -9,5 +9,4 @@ summary: Adventure for Cairn
 cost: free
 cover-image: https://img.itch.zone/aW1nLzEyNTY5OTY0LnBuZw==/original/aFyN1Y.png
 tags:
-  - originals
 ---

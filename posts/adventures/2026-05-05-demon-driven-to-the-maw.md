@@ -9,5 +9,4 @@ summary: A party-crawl adventure for Cairn.
 cost: $4.99
 cover-image: https://img.itch.zone/aW1nLzY5NTAzMDcuanBn/original/vLOB9J.jpg
 tags:
-  - originals
 ---

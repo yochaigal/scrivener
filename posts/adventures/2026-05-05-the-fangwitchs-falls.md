@@ -8,5 +8,4 @@ source-url: https://emyco.itch.io/the-fangwitchs-falls
 summary: A small and soggy pointcrawl adventure for Cairn.
 cost: $5
 tags:
-  - originals
 ---

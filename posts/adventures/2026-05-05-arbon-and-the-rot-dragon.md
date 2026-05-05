@@ -9,5 +9,4 @@ summary: Climb the inside of a great rotting tree to defeat the Rot Dragon
 cost: $6
 cover-image: https://img.itch.zone/aW1nLzg2MDIyNDEucG5n/original/77VGLS.png
 tags:
-  - originals
 ---

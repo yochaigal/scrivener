@@ -9,5 +9,4 @@ summary: A Forest Adventure for Cairn
 cost: $15
 cover-image: https://img.itch.zone/aW1nLzEwMDkzMTQwLmpwZw==/original/jdtUha.jpg
 tags:
-  - originals
 ---

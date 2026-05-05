@@ -9,5 +9,4 @@ summary: Fragmented Journal - Art zine/booklet of missing pages to the field of 
 cost: free
 cover-image: https://img.itch.zone/aW1nLzg3MDIyOTkuanBn/original/xamR8C.jpg
 tags:
-  - originals
 ---

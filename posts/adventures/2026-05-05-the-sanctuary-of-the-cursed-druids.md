@@ -9,5 +9,4 @@ summary: A Dungeon Crawl Adventure for Cairn and Other Old-school Role-playing G
 cost: free
 cover-image: https://img.itch.zone/aW1nLzgyNTE1MTIucG5n/original/3ZXR65.png
 tags:
-  - originals
 ---

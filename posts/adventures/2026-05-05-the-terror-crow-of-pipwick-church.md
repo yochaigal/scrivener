@@ -9,5 +9,4 @@ summary: Can you save the village of Warberley when death descends from the nigh
 cost: free
 cover-image: https://img.itch.zone/aW1nLzg0Nzk5MDMucG5n/original/Hga0g1.png
 tags:
-  - originals
 ---

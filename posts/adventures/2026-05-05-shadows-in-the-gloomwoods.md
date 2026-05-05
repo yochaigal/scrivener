@@ -8,5 +8,4 @@ source-url: https://lawfulindifferent.itch.io/shadowsinthegloomwoods
 summary: wildwood horror pointcrawl sandbox for Cairn
 cost: $5
 tags:
-  - originals
 ---
