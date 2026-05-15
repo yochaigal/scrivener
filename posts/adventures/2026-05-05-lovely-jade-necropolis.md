@@ -1,8 +1,8 @@
 ---
-name: Lovely Jade Necropolis [Shadowdark
+name: Lovely Jade Necropolis
 category:
   - OSE
-author: Cairn]
+author: Joseph R. Lewis 
 source: adventures
 source-url: Joseph R. Lewis
 genre: itch.io
