@@ -6,7 +6,7 @@ author: Yochai Gal
 source: itch.io
 source-url: https://yochaigal.itch.io/rise-of-the-blood-olms
 cost: free
-cover-image: https://store.cairnrpg.com/cdn/shop/files/CAS-2_1024x1024@2x.png?v=1732646223
+cover-image: https://img.itch.zone/aW1nLzE4NDE2NDM5LmpwZw==/315x250%23cb/9ACFkT.jpg
 tags:
   - first-party
 

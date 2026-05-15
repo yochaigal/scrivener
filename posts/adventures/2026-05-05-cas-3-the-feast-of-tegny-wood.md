@@ -6,7 +6,7 @@ author: Yochai Gal
 source: itch.io
 source-url: https://store.cairnrpg.com/products/cas-3-the-feast-of-tegny-wood
 cost: free
-cover-image: https://store.cairnrpg.com/cdn/shop/files/CAS-3_The_Feast_of_Tegny_Wood_1_1024x1024@2x.jpg?v=1761672622
+cover-image: https://img.itch.zone/aW1nLzIzNjc0MTk2LmpwZw==/315x250%23cb/1Nlzfe.jpg
 tags:
   - first-party
 summary:  |

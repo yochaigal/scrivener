@@ -6,7 +6,7 @@ author: Yochai Gal
 source: itch.io
 source-url: https://store.cairnrpg.com/products/cas-1-trouble-in-twin-lakes
 cost: free
-cover-image: https://store.cairnrpg.com/cdn/shop/files/KqK3Ag_1024x1024@2x.png?v=1750872387
+cover-image: https://img.itch.zone/aW1nLzE4NDE2Mzk3LnBuZw==/315x250%23cb/J74INJ.png
 tags:
   - first-party
 
