@@ -1,5 +1,5 @@
 ---
-name: Temple of the Forked Tongue: A Cairn Adventure
+name: Temple of the Forked Tongue
 category:
   - adventures
 author: J. Claypool
