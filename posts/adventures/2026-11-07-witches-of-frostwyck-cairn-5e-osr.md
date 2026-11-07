@@ -1,5 +1,5 @@
 ---
-name: Witches of Frostwyck [Cairn, 5E, OSR]
+name: Witches of Frostwyck
 category:
   - adventures
 author: Joseph R. Lewis
