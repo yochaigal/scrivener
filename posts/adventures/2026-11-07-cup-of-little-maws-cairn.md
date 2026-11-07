@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://junkyardtornado.itch.io/cup-of-little-maws
 summary: A pamphlet sized adventure for Cairn
 cost: PWYW
-cover-image: https://img.itch.zone/aW1nLzExMTYwNDUzLnBuZw==/315x250%23cb/imQAzB.png
+cover-image: https://img.itch.zone/aW1nLzExMTYwNDUzLnBuZw==/original/imQAzB.png
 ---

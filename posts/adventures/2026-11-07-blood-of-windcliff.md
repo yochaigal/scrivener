@@ -6,5 +6,5 @@ author: XmassCthulhu
 source: itch.io
 source-url: https://xmasscthulhu.itch.io/blood-of-windcliff
 cost: free
-cover-image: https://img.itch.zone/aW1nLzEyNjY2MDc3LnBuZw==/315x250%23cb/55KFhz.png
+cover-image: https://img.itch.zone/aW1nLzEyNjY2MDc3LnBuZw==/original/55KFhz.png
 ---

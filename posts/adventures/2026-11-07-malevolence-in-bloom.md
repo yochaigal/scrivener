@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://crypticmanuscripts.itch.io/malevolence-in-bloom
 summary: A One-Shot for 'Cairn RPG'
 cost: free
-cover-image: https://img.itch.zone/aW1nLzExOTA1Njc1LnBuZw==/315x250%23cb/f6p01e.png
+cover-image: https://img.itch.zone/aW1nLzExOTA1Njc1LnBuZw==/original/f6p01e.png
 ---

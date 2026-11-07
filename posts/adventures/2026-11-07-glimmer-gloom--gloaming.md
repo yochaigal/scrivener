@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://epigramps.itch.io/glimmer-gloom-gloaming
 summary: a haunted wood for Cairn
 cost: PWYW
-cover-image: https://img.itch.zone/aW1nLzI5NzYyMzE3LnBuZw==/315x250%23cb/RskNC5.png
+cover-image: https://img.itch.zone/aW1nLzI5NzYyMzE3LnBuZw==/original/RskNC5.png
 ---
