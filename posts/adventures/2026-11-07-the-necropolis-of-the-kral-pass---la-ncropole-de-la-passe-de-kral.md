@@ -1,5 +1,5 @@
 ---
-name: The Necropolis of the Krâal Pass - La Nécropole de la Passe de Krâal
+name: The Necropolis of the Krâal Pass
 category:
   - adventures
 author: Xapur
