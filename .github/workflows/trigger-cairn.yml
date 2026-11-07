@@ -1,0 +1,15 @@
+name: Trigger Cairn build
+on:
+  push:
+    branches: [main]
+    paths: ['posts/**']
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Cairn deploy workflow
+        env:
+          GH_TOKEN: ${{ secrets.CAIRN_DISPATCH_TOKEN }}
+        run: gh workflow run jekyll.yml --repo yochaigal/cairn --ref main
