@@ -5,7 +5,7 @@ category:
 author: Yochai Gal
 source: cairnrpg.com
 source-url: https://cairnrpg.com/adventures/first-party/cas-4/
-summary: Cairn Adventure Series 4, an adventure module for Cairn 2e. Free to read on cairnrpg.com.
+summary: The Forgetting of Lockwood Manor is a gothic horror adventure about an estate where the crimes of its past residents live on, even after death!
 cost: $20
 cover-image: https://img.itch.zone/aW1nLzMxMDg5MjgyLnBuZw==/315x250%23cb/Y4fvZR.png
 tags:
