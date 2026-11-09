@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://brookletgames.itch.io/arbon-and-the-rot-dragon
 summary: Climb the inside of a great rotting tree to defeat the Rot Dragon
 cost: $6
-cover-image: https://img.itch.zone/aW1nLzg2MDIyNDEucG5n/original/77VGLS.png
+cover-image: https://img.itch.zone/aW1nLzg2MDIyNDEucG5n/315x250%23cb/OK5TAG.png
 tags:
 ---

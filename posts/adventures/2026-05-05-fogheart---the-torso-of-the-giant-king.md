@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://antigona404.itch.io/fogheart
 summary: A setting and adventure for Cairn and OSE
 cost: $5
-cover-image: https://img.itch.zone/aW1nLzg2NTU3MjEucG5n/original/4hVOR0.png
+cover-image: https://img.itch.zone/aW1nLzg2NTU3MjEucG5n/315x250%23cb/jozfT8.png
 tags:
 ---

@@ -7,7 +7,7 @@ source: cairnrpg.com
 source-url: https://cairnrpg.com/adventures/conversions/library-beneath-the-sands/
 summary: A Cairn conversion by lovelyzoo of the original by JD. The conversion notes are free on cairnrpg.com; the original adventure is needed to play.
 cost: free
-cover-image: https://img.itch.zone/aW1nLzIzNjQ5NDIucG5n/original/ijitkD.png
+cover-image: https://img.itch.zone/aW1nLzIzNjQ5NDIucG5n/315x250%23cb/ZwhqYO.png
 tags:
   - conversion
 ---

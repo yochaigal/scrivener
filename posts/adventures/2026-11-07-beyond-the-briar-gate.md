@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://dailyritualpress.itch.io/beyond-the-briar-gate
 summary: A One-Shot for Cairn 2e
 cost: $2
-cover-image: https://img.itch.zone/aW1nLzI5NzAwMjkwLnBuZw==/original/CkNE7y.png
+cover-image: https://img.itch.zone/aW1nLzI5NzAwMjkwLnBuZw==/315x250%23cb/1VnUd8.png
 ---

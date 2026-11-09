@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://crypticmanuscripts.itch.io/warlocks-gambit
 summary: A Cairn RPG One-shot
 cost: PWYW
-cover-image: https://img.itch.zone/aW1nLzExODAxMTA2LnBuZw==/original/xjxrb2.png
+cover-image: https://img.itch.zone/aW1nLzExODAxMTA2LnBuZw==/315x250%23cb/mcsL0J.png
 ---

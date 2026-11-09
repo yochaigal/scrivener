@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://kak4p0.itch.io/o-zigurate-lunar
 summary: Uma dungeon para Cairn 2e
 cost: PWYW
-cover-image: https://img.itch.zone/aW1nLzI4MzE0MDk3LnBuZw==/original/%2FYkYzX.png
+cover-image: https://img.itch.zone/aW1nLzI4MzE0MDk3LnBuZw==/315x250%23cb/aU%2Fwhy.png
 ---

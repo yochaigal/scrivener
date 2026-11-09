@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://pointlessmonument.itch.io/a-fistful-of-feathers
 summary: A pointcrawl for Cairn - how far will you go for a comfy night's sleep?
 cost: free
-cover-image: https://img.itch.zone/aW1nLzg2OTE1NjMucG5n/original/Wq5N%2BB.png
+cover-image: https://img.itch.zone/aW1nLzg2OTE1NjMucG5n/315x250%23cb/J40FW3.png
 tags:
 ---

@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://alexeys.itch.io/bears-son-tale
 summary: An epic adventure inspired by the Beowulf poem for the Cairn RPG
 cost: $1
-cover-image: https://img.itch.zone/aW1nLzIxNDA4NzIyLnBuZw==/original/tnKluK.png
+cover-image: https://img.itch.zone/aW1nLzIxNDA4NzIyLnBuZw==/315x250%23cb/JxuEvq.png
 ---

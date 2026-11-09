@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://estrandvold.itch.io/inner-sanctum-of-the-immortal-scorpion
 summary: A puzzle dungeon for Cairn
 cost: free
-cover-image: https://img.itch.zone/aW1nLzI0NTIzNDIzLnBuZw==/original/99KZSc.png
+cover-image: https://img.itch.zone/aW1nLzI0NTIzNDIzLnBuZw==/315x250%23cb/Eba%2Fze.png
 ---

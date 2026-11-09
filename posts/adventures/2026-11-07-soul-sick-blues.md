@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://erathke.itch.io/soul-sick-blues
 summary: A Hob Adventure for Cairn
 cost: PWYW
-cover-image: https://img.itch.zone/aW1nLzMwMjkxNDIwLnBuZw==/original/QL7hj1.png
+cover-image: https://img.itch.zone/aW1nLzMwMjkxNDIwLnBuZw==/315x250%23cb/Gr3gcW.png
 ---

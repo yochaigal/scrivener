@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://malachijs.itch.io/pale-horseman
 summary: Forest Crawl Adventure
 cost: PWYW
-cover-image: https://img.itch.zone/aW1nLzI4NjczMzYzLnBuZw==/original/JYcorE.png
+cover-image: https://img.itch.zone/aW1nLzI4NjczMzYzLnBuZw==/315x250%23cb/5q0Hia.png
 ---

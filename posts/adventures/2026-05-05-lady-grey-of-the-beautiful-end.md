@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://yttikon.itch.io/lady-grey-of-the-beautiful-end
 summary: The small town Trissam is cursed with an all-consuming grey substance, infected with avarice and on the brink of a civil war.
 cost: free
-cover-image: https://img.itch.zone/aW1hZ2UvNDM0MTAzNy8yNjgwNDcyMC5qcGc=/347x500/vnLhjh.jpg
+cover-image: https://img.itch.zone/aW1nLzI2OTMxNzg5LnBuZw==/315x250%23cb/wZ7xxK.png
 tags:
 ---

@@ -5,7 +5,7 @@ category:
 author: Knightowlpub
 source: itch.io
 source-url: https://ahimsa-kerp.itch.io/janky-goblins
-cover-image: https://img.itch.zone/aW1hZ2UvMjg0MDQwMS8xNjk3MTQ0MS5qcGc=/original/wbXJ4T.jpg
+cover-image: https://img.itch.zone/aW1nLzE2OTcxMTYxLmpwZw==/315x250%23c/YDpq2B.jpg
 cost: $3.99
 tags:
 ---

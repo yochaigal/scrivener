@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://scribbledmaze.itch.io/strange-trees
 summary: An underground setting and generator for the Cairn adventure game
 cost: free
-cover-image: https://img.itch.zone/aW1nLzg2OTc1MTIucG5n/original/7b7C17.png
+cover-image: https://img.itch.zone/aW1nLzg2OTc1MTIucG5n/315x250%23cb/jo1TiL.png
 tags:
 ---

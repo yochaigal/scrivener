@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://ialath.itch.io/forkuns-forest-of-shadows
 summary: An enchanted forest one-shot for Cairn
 cost: free
-cover-image: https://img.itch.zone/aW1nLzg0NzcyMDMucG5n/original/cgf2mm.png
+cover-image: https://img.itch.zone/aW1nLzg0NzcyMDMucG5n/315x250%23cb/rhxf3i.png
 tags:
 ---
