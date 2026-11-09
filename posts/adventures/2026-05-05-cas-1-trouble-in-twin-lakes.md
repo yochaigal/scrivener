@@ -9,4 +9,4 @@ cost: free
 cover-image: https://img.itch.zone/aW1nLzE4NDE2Mzk3LnBuZw==/315x250%23cb/J74INJ.png
 tags:
   - first-party
-  ---
+---
