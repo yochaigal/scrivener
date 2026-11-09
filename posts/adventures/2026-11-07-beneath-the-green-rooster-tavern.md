@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://sabrina-tvband.itch.io/beneath-the-green-rooster
 summary: A One-Page-Dungeon for OSR games. Includes Cairn stats on a second sheet.
 cost: PWYW
-cover-image: https://img.itch.zone/aW1nLzE1Mjc0MTc3LnBuZw==/original/h8ZOak.png
+cover-image: https://img.itch.zone/aW1nLzE1Mjc0MTc3LnBuZw==/315x250%23cb/aUNWpw.png
 ---

@@ -8,5 +8,5 @@ source-url: https://josephrlewis.itch.io/lovely-jade-necropolis
 genre: horror
 summary: A multi-system dark necropolis adventure
 cost: $14.99
-cover-image: https://img.itch.zone/aW1hZ2UvMzk5ODY5MS8yMzg0NjQ1Ny5wbmc=/original/txfnIN.png
+cover-image: https://img.itch.zone/aW1nLzIzODQ2NDU0LnBuZw==/315x250%23cb/kKEwoS.png
 ---

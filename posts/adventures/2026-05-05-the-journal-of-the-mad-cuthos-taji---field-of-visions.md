@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://tonytrandesign.itch.io/mct-journal-field-of-visions
 summary: Fragmented Journal - Art zine/booklet of missing pages to the field of visions
 cost: free
-cover-image: https://img.itch.zone/aW1nLzg3MDIyOTkuanBn/original/xamR8C.jpg
+cover-image: https://img.itch.zone/aW1nLzg3MDIyOTkuanBn/315x250%23cb/uWR%2FvC.jpg
 tags:
 ---

@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://everweird.itch.io/caverns-of-the-hidrida
 summary: A dungeon for OSR TTRPGs.
 cost: free
-cover-image: https://img.itch.zone/aW1nLzI5MTg4OTYyLmpwZWc=/original/LYYtrE.jpeg
+cover-image: https://img.itch.zone/aW1nLzI5MTg4OTYyLmpwZWc=/315x250%23cb/7xl868.jpeg
 ---

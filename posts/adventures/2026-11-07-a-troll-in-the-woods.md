@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://shamaeimagines.itch.io/a-troll-in-the-woods
 summary: A short adventure for Cairn
 cost: free
-cover-image: https://img.itch.zone/aW1nLzEyNDk4MzYxLnBuZw==/original/PDYRV9.png
+cover-image: https://img.itch.zone/aW1nLzEyNDk4MzYxLnBuZw==/315x250%23cb/6ba3aS.png
 ---

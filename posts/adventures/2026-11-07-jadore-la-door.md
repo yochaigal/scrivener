@@ -7,5 +7,5 @@ source: itch.io
 source-url: https://creative-wronging.itch.io/jadore-la-door
 summary: A Door-based OSR Adventure
 cost: $3
-cover-image: https://img.itch.zone/aW1nLzE1ODM1MDQxLnBuZw==/original/DAwxe7.png
+cover-image: https://img.itch.zone/aW1nLzE1ODM1MDQxLnBuZw==/315x250%23cb/j0MRGZ.png
 ---

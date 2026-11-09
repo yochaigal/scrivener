@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://brookletgames.itch.io/vortex-isles
 summary: Seek the lost treasure of Captain Lolligo in a dangerous ever-spiraling vortex!
 cost: $6
-cover-image: https://img.itch.zone/aW1nLzgzNDc5ODUucG5n/original/q15NSQ.png
+cover-image: https://img.itch.zone/aW1nLzgzNDc5ODUucG5n/315x250%23cb/SD6Cli.png
 tags:
 ---

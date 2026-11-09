@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://andyanimates.itch.io/the-weft-the-weave
 summary: A Forest Adventure for Cairn
 cost: $15
-cover-image: https://img.itch.zone/aW1nLzEwMDkzMTQwLmpwZw==/original/jdtUha.jpg
+cover-image: https://img.itch.zone/aW1nLzEwMDkzMTQwLmpwZw==/315x250%23cb/h6nrno.jpg
 tags:
 ---

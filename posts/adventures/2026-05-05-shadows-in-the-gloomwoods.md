@@ -6,7 +6,7 @@ author: Pillarworks
 source: itch.io
 source-url: https://pillarworks.itch.io/shadowsinthegloomwoods
 summary: wildwood horror pointcrawl sandbox for Cairn
-cover-image: https://img.itch.zone/aW1nLzg1NDg1NzQucG5n/original/tGRGUB.png
+cover-image: https://img.itch.zone/aW1nLzg1MzgxNzYucG5n/315x250%23cb/1gd5tl.png
 cost: $5
 tags:
 ---

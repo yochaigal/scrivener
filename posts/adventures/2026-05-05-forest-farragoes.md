@@ -7,6 +7,6 @@ source: itch.io
 source-url: https://ktrey.itch.io/forest-farragoes
 summary: A Half-Dozen Random Tables for the Cairn Forest Jam
 cost: free
-cover-image: https://img.itch.zone/aW1nLzg1MTY2OTcuanBn/original/oqLX62.jpg
+cover-image: https://img.itch.zone/aW1nLzg1MTY2OTcuanBn/315x250%23c/e11Cxo.jpg
 tags:
 ---
